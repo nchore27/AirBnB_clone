@@ -1,5 +1,4 @@
-
-#!/usr/bin/python3
+#!/iusr/bin/python3
 """
 This is module console.py.
 It is the main entry point for the command line interpreter.
