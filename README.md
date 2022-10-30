@@ -20,7 +20,7 @@ $ ./console.py
 
 Documented commands (type help <topic>):
 ========================================
-EOF  help  quit
+EOF  all  count  create  destroy  help  quit  show  update
 
 (hbnb) 
 (hbnb) 
@@ -31,4 +31,4 @@ $
 ### Contact Info:
 #### Git: nchore27
 
-#### Git: MyNimrod
+#### Git: MyNimrod 
