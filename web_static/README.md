@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ##web_static
 ###0-index.html
 Write an HTML page that displays a header and a footer.
@@ -23,3 +24,6 @@ You must use the header and footer tags
 You are not allowed to import any files
 You are not allowed to use the style tag in the head tag
 Use inline styling for all your tags
+=======
+Web static
+>>>>>>> 9583873c6cc443cacddac248ddcb01f83eec664e
