@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<<< HEAD
 ##web_static
 ###0-index.html
 Write an HTML page that displays a header and a footer.
